@@ -1,5 +1,6 @@
 # baoyu-design
 
+> **非官方存档镜像。** 本仓库基于此前保存在本地的[宝玉原版 `baoyu-design` 仓库](https://github.com/JimLiu/baoyu-design)，存档基线为提交 `0fd52fc77765b214cfcc2ced20b092b2969bb0b0`。原仓库地址现已跳转至 [`JimLiu/open-artifact`](https://github.com/JimLiu/open-artifact)。本镜像保留原作者的版权声明和[该快照的 MIT 许可证](LICENSE)，不由原作者维护。
 
 https://github.com/user-attachments/assets/d5b4f39b-a701-49de-87b8-64f3c6ef9c61
 

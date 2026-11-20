@@ -1,5 +1,6 @@
 # baoyu-design
 
+> **Unofficial archival mirror.** This repository preserves a previously saved local clone of [Jim Liu's original `baoyu-design` repository](https://github.com/JimLiu/baoyu-design) at commit `0fd52fc77765b214cfcc2ced20b092b2969bb0b0`. The original URL now redirects to [`JimLiu/open-artifact`](https://github.com/JimLiu/open-artifact). The original copyright notice and [MIT license for this snapshot](LICENSE) are retained. This mirror is not maintained by the original author.
 
 https://github.com/user-attachments/assets/d5b4f39b-a701-49de-87b8-64f3c6ef9c61
 
